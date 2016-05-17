@@ -1,1 +1,8 @@
 0
+
+
+Primeiro seguir o tutorial do GitHub para gerar uma chave publica de acesso
+ao diretorio na maquina que estamos trabalhando.
+
+Copiar esta chave criada na maquina e inserir no Git
+
